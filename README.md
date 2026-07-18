@@ -22,16 +22,16 @@ I document everything I do: terminal logs, daily notes, reflections, and project
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=heema-sec-hash&show_icons=true&theme=dark)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=heema-sec-hash&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heema-sec-hash&layout=compact&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=heema-sec-hash&theme=dark)
 
 ## 📝 Always Learning. Always Building. Always Documenting.
 "From zero to something — one command at a time."
 
 ## 🌍 Connect With Me
-https://img.shields.io/badge/https%3A%2F%2Fdiscord.com%2Fusers%2F1181632947762253924
-https://img.shields.io/badge/https%3A%2F%2Fwww.reddit.com%2Fuser%2FTheBedouinByte%2F
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1181632947762253924)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/TheBedouinByte/)
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=heema-sec-hash&color=blue&username&label=VIEWS&username&abbreviated=true&username&style=plastic)
+![](https://komarev.com/ghpvc/?username=heema-sec-hash&color=blue&abbreviated=true&style=pixel)
