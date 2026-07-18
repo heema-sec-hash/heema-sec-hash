@@ -15,7 +15,7 @@ I document everything I do: terminal logs, daily notes, reflections, and project
 | Project | Description | Skills |
 |---------|-------------|--------|
 | [System Info Collector](https://github.com/heema-sec-hash/security-learning/tree/main/projects/1_system_info) | Bash script for system enumeration | `#bash` `#linux` `#automation` |
-| [Log Parser](https://github.com/heema-sec-hash/security-learning/tree/main/projects/2_log_parser) | Bash script for log analysis and threat detection | `#bash` `#gre`p `#awk` `#security` |
+| [Log Parser](https://github.com/heema-sec-hash/security-learning/tree/main/projects/2_log_parser) | Bash script for log analysis and threat detection | `#bash` `#grep` `#awk` `#security` |
 | [HTTP Health Checker](https://github.com/heema-sec-hash/security-learning/tree/main/projects/3_http_health_checker) | Website status monitoring with curl | `#bash` `#curl` `#http` |
 
 ---
