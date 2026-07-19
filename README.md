@@ -29,6 +29,7 @@ I document everything I do: terminal logs, daily notes, reflections, and project
 ## 🌍 Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1181632947762253924)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/TheBedouinByte/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=heema-sec-hash&color=blue&abbreviated=true&style=pixel)
