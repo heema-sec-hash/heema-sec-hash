@@ -21,9 +21,6 @@ I document everything I do: terminal logs, daily notes, reflections, and project
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=heema-sec-hash&theme=dark)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=heema-sec-hash&theme=dark)
 
 ## 📝 Always Learning. Always Building. Always Documenting.
