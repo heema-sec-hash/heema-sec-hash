@@ -2,11 +2,7 @@
 
 # 👋 Hi, I'm Ibrahim (aka TheBedouinByte)
 
-## 🔐 Self-taught Security Engineer | Linux · Bash · Python · AI Security · Cloud Identity
-
-I started learning cybersecurity from **zero** — no Linux, no Bash, no Python. This is my public journey.
-
-I document everything I do: terminal logs, daily notes, reflections, and projects. Every script, every lab, every mistake goes here.
+## 🔐 Self-taught Security Engineer
 
 ---
 
